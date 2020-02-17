@@ -1,2 +1,2 @@
 # Face_recognition
-Detect a face and mood.
+Analysing mood of the detected face via Machine Learning models.
